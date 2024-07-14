@@ -1,10 +1,13 @@
----
-:lessons:
-- :id: 223932
-  :course_id: 6638
-  :canvas_url: https://learning.flatironschool.com/courses/6638/assignments/223932
-  :type: assignment
-- :id: 263285
-  :course_id: 7550
-  :canvas_url: https://learning.flatironschool.com/courses/7550/assignments/263285
-  :type: assignment
+
+"id": 2,
+"title": "Second Article",
+"content": "This is also an example."
+},
+{
+"title": "Third Article",
+"content": "Another example!",
+"id": 3
+}
+]
+}
+}
